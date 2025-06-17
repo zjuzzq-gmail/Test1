@@ -142,7 +142,7 @@ document.write(msg);
 msg = '<br/>';
 i = 1;
 while (i < 10) {
-	msg += i + ' x 9 = ' + 9*i + '<br>';
+	msg += i + ' x 6 = ' + 6*i + '<br>';
 	i += 1;
 }
 document.write(msg);
@@ -150,7 +150,7 @@ document.write(msg);
 msg = '<br>';
 i = 1;
 do {
-	msg += i + ' x 9 = ' + 9*i + '<br>';
+	msg += i + ' x 6 = ' + 6*i + '<br>';
 	i += 1;
 } while (i < 10)
 document.write(msg);
